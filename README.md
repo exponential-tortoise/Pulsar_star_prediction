@@ -31,3 +31,30 @@ Skewness of the DM-SNR curve.
 
 Class
 
+
+We calculated following  evalution metrics for this random forest model 
+
+1) Precision
+
+2) Recall
+
+3) F score
+
+4) AUC of ROC curve
+
+The results were following : 
+
+The precision score of the model is 0.9424460431654677
+
+The recall score of the model is 0.8397435897435898
+
+The F1 score of the model is 0.888135593220339
+
+The ROC_AUC score of the model is 0.9174238144556383
+
+The Confusion Matrix is as follows :
+
+![Screenshot](confusion_matrix.jpeg)
+
+
+
