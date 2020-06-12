@@ -54,7 +54,7 @@ The ROC_AUC score of the model is 0.9174238144556383
 
 The Confusion Matrix is as follows :
 
-![Screenshot](confusion_matrix.jpeg)
+![Screenshot](confusion_matrix.png)
 
 
 
