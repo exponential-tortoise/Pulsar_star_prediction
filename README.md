@@ -1,5 +1,6 @@
 # Pulsar_star_prediction
 
+![Screenshot](pulsar.jpeg)
 
 
 A random forest classifier model to distinguish pulsar stars from others . 
